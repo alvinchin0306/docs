@@ -9,4 +9,6 @@ children:
   - /working-on-github-docs-in-a-codespace
   - /creating-a-local-environment
   - /troubleshooting-your-environment
+  - /new-subpage-example  # 新添加的子页面
 ---
+
